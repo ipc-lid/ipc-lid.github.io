@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# jekyll-uno
 
-You can use the [editor on GitHub](https://github.com/Plataformas-Digitales/plataformas-digitales.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> :warning:
+  This theme requires ruby and rubygems installed
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Clean layout
+* Resposive layout
+* Pagination
+* Syntax highlighting
+* Social links
+* Tags listing page
+* Categories listing page
+* Google Analytics integration
+* Disqus integration
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### Install and Test
 
-- Bulleted
-- List
+1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
+2. Enter the folder: `cd jekyll-uno/`
+3. If you don't have bundler installed: `gem install bundler`
+3. Install Ruby gems: `bundle install`
+4. Start Jekyll server: `bundle exec jekyll serve --watch`
 
-1. Numbered
-2. List
+Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
 
-**Bold** and _Italic_ and `Code` text
+If you would like to run without using the `github-pages` gem, update your Gemfile to the following:
 
-[Link](url) and ![Image](src)
 ```
+source 'https://rubygems.org'
+gem 'jekyll-paginate'
+gem 'jekyll-watch'
+gem 'kramdown'
+gem 'kramdown-parser-gfm'
+```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Demo and Download
 
-### Jekyll Themes
+[Demo](http://joshgerdes.com/jekyll-uno/)
+[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Plataformas-Digitales/plataformas-digitales.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![jekyll-uno - free Jekyll theme](/screenshot.png)
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Copyright and license
+
+It is under [the MIT license](/LICENSE).

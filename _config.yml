@@ -2,7 +2,7 @@
 title: Plataformas Digitales
 description: 'Sitio de Trabajo para los alumnos de 6to D TV del CETiS Nro. 32'
 url: 'https://plataformas-digitales.github.io/'
-baseurl: '/jekyll-uno'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true

@@ -4,22 +4,17 @@ date:   2021-02-16 15:04:23
 categories: [jekyll]
 tags: [jekyll]
 ---
-You’ll find this postaaaaaaaaa in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Bienvenido al sitio web de [Plataformas Digitales][plataformas]. En este pequeño blog, iré subiendo las actividades que deberán realizar los alumnos de 6to semestre de la carrera de Ofimática del CETiS nro. 32.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Recuerda que los correos que mandes a la dirección **gerardogalileo.reyes.ce32@dgeti.sems.gob.mx** debe cumplir con cierta nomenclatura, como:
++ **Asunto:** Actividad N Apellidos Nombres
+  + Ejemplo: Actividad 1 Reyes Hernández Gerardo Galileo
+- **Cuerpo del mensaje:** Deberás poner la evidencia de tu trabajo, ya sea:
+  + Fotografía de tu actividad realizada en la libreta
+  + Documento .pdf o
+  + Documento .doc (o .docx)
 
-Jekyll also offers powerful support for code snippets:
+Además de que tendrás los días martes y miércoles para enviar tu actividad.
+Te deseo lo mejor para este semestre.
 
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[plataformas]: https://plataformas-digitales.github.io/

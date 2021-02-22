@@ -14,7 +14,9 @@ Recuerda que los correos que mandes a la dirección **gerardogalileo.reyes.ce32@
   + Documento .pdf o
   + Documento .doc (o .docx)
 
+Recuerda conectarte en tiempo y forma: [Link Google Meet][meet]
 Además de que tendrás los días martes y miércoles para enviar tu actividad.
 Te deseo lo mejor para este semestre.
 
 [plataformas]: https://plataformas-digitales.github.io/
+[meet]: https://meet.google.com/jpc-tcsx-mhp

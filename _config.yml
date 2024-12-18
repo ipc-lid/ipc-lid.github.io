@@ -1,6 +1,6 @@
 # Site settings
 title: Laboratorio de Innovación Digital - Instituto Pedagógico Comenio
-description: 'Sitio de Trabajo para los alumnos de 6to D TV del CETiS Nro. 32'
+description: 'Descripción de actividades realizadas en el LID con los estudiantes del IPC'
 url: 'https://ipc-lid.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'

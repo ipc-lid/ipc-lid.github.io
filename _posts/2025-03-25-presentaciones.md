@@ -22,4 +22,6 @@ Sus logros destacados:
 
 | ![IMG_20250324_135249](https://github.com/user-attachments/assets/e740aa6d-6997-4860-b6b8-18b011bf77b4)
   | ![IMG_20250324_135230](https://github.com/user-attachments/assets/17a4e938-5e64-493c-8b97-5fc8aaef0b9a)
+  | ![IMG_20250324_135302](https://github.com/user-attachments/assets/cceb46d3-3cd0-444f-af86-5eedbaecc8cd)
+  | ![IMG_20250324_135255](https://github.com/user-attachments/assets/4ca1429d-d3d9-4fa1-9d71-23800539f200)
   |
